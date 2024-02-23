@@ -1,7 +1,9 @@
 /*
 Covid 19 Data Exploration 
 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Skills used: Joins (merge tables), Common Table Expression (CTE's), Temporary Tables (Temp Tables), 
+Windows Functions (Return value for each row), Aggregate Functions (returns one value after calculating multiple values of a column),
+Creating Views (virtual tables), Converting Data Types (string to int)
 
 */
 
